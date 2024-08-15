@@ -1,16 +1,9 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Firebase CRUD App with Flutter**
+**This repository contains a basic Flutter application that showcases CRUD (Create, Read, Update, Delete) operations using Firebase as the backend.
+Features**
+-User authentication with Firebase
+-CRUD operations for a simple data model
+-Real-time data synchronization with Firebase
+**Technologies Used**
+-Flutter for the mobile app
+-Firebase for backend services (Authentication, Firestore)
